@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lulin036.github.io/</id>
-    <title>路麟的博客</title>
-    <updated>2021-05-27T10:56:06.951Z</updated>
+    <title>路麟</title>
+    <updated>2021-05-27T11:00:18.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lulin036.github.io/"/>
     <link rel="self" href="https://lulin036.github.io/atom.xml"/>
     <subtitle>6*6=36</subtitle>
     <logo>https://lulin036.github.io/images/avatar.png</logo>
     <icon>https://lulin036.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 路麟的博客</rights>
+    <rights>All rights reserved 2021, 路麟</rights>
     <entry>
         <title type="html"><![CDATA[002|手机电脑文件互传]]></title>
         <id>https://lulin036.github.io/post/002orshou-ji-dian-nao-wen-jian-hu-chuan/</id>
