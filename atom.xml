@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lulin036.github.io/</id>
+    <title>路麟的博客</title>
+    <updated>2021-05-27T10:52:48.235Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lulin036.github.io/"/>
+    <link rel="self" href="https://lulin036.github.io/atom.xml"/>
+    <subtitle>6*6=36</subtitle>
+    <logo>https://lulin036.github.io/images/avatar.png</logo>
+    <icon>https://lulin036.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 路麟的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[002|手机电脑文件互传]]></title>
+        <id>https://lulin036.github.io/post/002orshou-ji-dian-nao-wen-jian-hu-chuan/</id>
+        <link href="https://lulin036.github.io/post/002orshou-ji-dian-nao-wen-jian-hu-chuan/">
+        </link>
+        <updated>2021-05-27T03:23:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[001|第一篇博客]]></title>
+        <id>https://lulin036.github.io/post/about/</id>
+        <link href="https://lulin036.github.io/post/about/">
+        </link>
+        <updated>2021-05-26T22:59:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://lulin036.github.io/post/hello-gridea/</id>
+        <link href="https://lulin036.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
